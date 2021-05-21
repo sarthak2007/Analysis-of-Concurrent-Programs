@@ -1,0 +1,5 @@
+FT2S -samplingscheme=adaptive
+51145
+49678
+55133
+Avg= 51985.3

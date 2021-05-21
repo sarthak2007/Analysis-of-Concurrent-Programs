@@ -1,0 +1,5 @@
+FT2S -samplingscheme=adaptive
+20899
+20443
+20693
+Avg= 20678.3
